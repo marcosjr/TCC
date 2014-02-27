@@ -1,0 +1,6 @@
+tocar README.md
+git o init
+git add README.md
+git commit-m "primeiro commit"
+git add remota origem https://github.com/marcosjr/TCC/test.git 
+git push-u origin master
